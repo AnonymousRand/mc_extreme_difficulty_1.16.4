@@ -10,3 +10,5 @@
 Optifine is integrated within this client.
 
 As per Mojang guidelines, this modded client does not distribute any of the game's code.
+
+Made with the MCP-Reborn Tool https://github.com/Hexeption/MCP-Reborn
