@@ -13,4 +13,4 @@ As per Mojang guidelines, this modded client does not distribute any of the game
 
 Made with the MCP-Reborn Tool https://github.com/Hexeption/MCP-Reborn
 
-#Nausea warning: excessive, rapid damage (hurting) animations can cause nausea for those who are motion sick
+# Nausea warning: excessive, rapid damage (hurting) animations can cause nausea for those who are motion sick
