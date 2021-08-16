@@ -12,3 +12,5 @@ Optifine is integrated within this client.
 As per Mojang guidelines, this modded client does not distribute any of the game's code.
 
 Made with the MCP-Reborn Tool https://github.com/Hexeption/MCP-Reborn
+
+#Nausea warning: excessive, rapid damage (hurting) animations can cause nausea for those who are motion sick
