@@ -1,4 +1,6 @@
-# 1.16.4-Extreme-Difficulty
+# Extreme-Difficulty
+
+For Minecraft 1.16.4.
 
 # Installation guide:
 
