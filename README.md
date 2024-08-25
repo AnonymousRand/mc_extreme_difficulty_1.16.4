@@ -1,4 +1,6 @@
-# Installation instructions:
+# 1.16.4-Extreme-Difficulty
+
+# Installation guide:
 
 1. Click on "Releases" near the right side of the screen
 2. Download the source code zip from the release that you want under the "Assets" tab (descriptions of each release's features are included in the releases page)
