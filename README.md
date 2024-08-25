@@ -1,6 +1,6 @@
 # MC-Extreme-Difficulty-1.16.4
 
-Modded Minecraft 1.16.4 client with OptiFine.
+Modded Minecraft 1.16.4 client.
 
 # WARNING
 
