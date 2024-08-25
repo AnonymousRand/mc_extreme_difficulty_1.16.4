@@ -15,4 +15,6 @@ Rapid damage (hurting) animations may be nauseating.
 5. Copy that folder next to the README.md into your versions folder in .minecraft (default location of .minecraft can be accessed by pressing WindowsKey + R and typing in "%AppData%" without the quotation marks)
 6. Open Minecraft launcher and click the Installations tab. Create a new installation and select the version that corresponds with this modded client (should be named 1.16.4-Extreme). Then, select this new intallation in the launcher home screen and click Play.
 
+---
+
 Made with [MCP-Reborn](https://github.com/Hexeption/MCP-Reborn).
