@@ -1,5 +1,5 @@
 {
-  "id": "1.16.4-Extreme",
+  "id": "extreme_difficulty_1.16.4",
   "time": "2021-01-13T06:09:04-08:00",
   "releaseTime": "2020-10-29T08:49:37-07:00",
   "type": "release",
@@ -1513,7 +1513,7 @@
   ],
   "downloads": {},
   "assetIndex": {
-    "id": "1.16.4-Extreme",
+    "id": "extreme_difficulty_1.16.4",
     "totalSize": 330372979,
     "size": 295419,
     "url": "https://launchermeta.mojang.com/v1/packages/f8e11ca03b475dd655755b945334c7a0ac2c3b43/1.16.json"
