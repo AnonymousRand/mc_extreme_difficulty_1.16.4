@@ -1,4 +1,4 @@
-# MC-Extreme-Difficulty-1.16.4
+# Minecraft: Extreme Difficulty, 1.16.4
 
 Modded Minecraft 1.16.4 client.
 
